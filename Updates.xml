@@ -1,0 +1,21 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.aspdf.studio</Name>
+  <DisplayName>ASPdf Studio Core</DisplayName>
+  <Description>ASPdf Studio Ana Uygulama Dosyaları</Description>
+  <Version>1.0.0-1</Version>
+  <ReleaseDate>2026-07-10</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="257107528" OS="Any" UncompressedSize="417420981"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,python_converter.7z,python_security.7z,qml.7z,qmltooling.7z,styles.7z,tesseract.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license.txt" name="Son Kullanici Sozlesmesi"/>
+  </Licenses>
+  <SHA1>ef6bc59c3706895d3a5ce806ab64d9587cea843a</SHA1>
+ </PackageUpdate>
+ <SHA1>75977c17e779e630164637d744c8c2dd4131d8d3</SHA1>
+ <MetadataName>2026-07-10-0023_meta.7z</MetadataName>
+</Updates>
