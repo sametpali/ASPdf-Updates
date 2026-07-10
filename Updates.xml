@@ -1,0 +1,57 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.aspdf.app</Name>
+  <DisplayName>ASPdf Studio</DisplayName>
+  <Description>ASPdf Studio Ana Uygulama</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2026-07-11</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <Dependencies>com.aspdf.runtime, com.aspdf.tools, com.aspdf.data</Dependencies>
+  <SortingPriority>100</SortingPriority>
+  <UpdateFile CompressedSize="10863601" OS="Any" UncompressedSize="25082091"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>88a1c8d0baff51b6eb95e79a84b5bbb545718fd7</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.aspdf.data</Name>
+  <DisplayName>Veri Dosyaları</DisplayName>
+  <Description>OCR Modelleri, Çeviriler ve QML Kaynakları</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2026-07-11</ReleaseDate>
+  <Virtual>true</Virtual>
+  <SortingPriority>70</SortingPriority>
+  <UpdateFile CompressedSize="32744896" OS="Any" UncompressedSize="119018257"/>
+  <DownloadableArchives>qml.7z,tesseract.7z,translations.7z</DownloadableArchives>
+  <SHA1>73fcc0be2ac38b229856224ff2a8607e730ba0d3</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.aspdf.runtime</Name>
+  <DisplayName>Qt Runtime</DisplayName>
+  <Description>Qt 6 Çalışma Zamanı Kütüphaneleri</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2026-07-11</ReleaseDate>
+  <Virtual>true</Virtual>
+  <SortingPriority>90</SortingPriority>
+  <UpdateFile CompressedSize="25174912" OS="Any" UncompressedSize="97985140"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,qml.7z,qmltooling.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>f63ecf7eb7ccdff4f1d31e1e4b194f83dd1f7f2c</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.aspdf.tools</Name>
+  <DisplayName>Araç Modülleri</DisplayName>
+  <Description>PDF Dönüştürücü ve Güvenlik Araçları</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2026-07-11</ReleaseDate>
+  <Virtual>true</Virtual>
+  <SortingPriority>80</SortingPriority>
+  <UpdateFile CompressedSize="190322637" OS="Any" UncompressedSize="190973329"/>
+  <DownloadableArchives>python_converter.7z,python_security.7z</DownloadableArchives>
+  <SHA1>8e06033967d1a6a2e709210f54a917196fb4326a</SHA1>
+ </PackageUpdate>
+ <SHA1>fd258dbd7af93395f30b439c4a21d3a2cf8851ca</SHA1>
+ <MetadataName>2026-07-11-0131_meta.7z</MetadataName>
+</Updates>
