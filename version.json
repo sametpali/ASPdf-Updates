@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "version": "1.0.1",
   "release_date": "2026-09-15",
   "min_app_version": "1.0.0",
@@ -13,9 +12,3 @@
     "en": "• Bug fixes and performance enhancements."
   }
 }
-=======
-  "version": "1.0.0",
-  "download_url": "https://raw.githubusercontent.com/sametpali/ASPdf-Updates/main/ASPdf_Setup_1.0.6.zip",
-  "patch_url": "https://raw.githubusercontent.com/sametpali/ASPdf-Updates/main/update.zip"
-}
->>>>>>> 327d49fffa8336b068b1f4c9bf8ed8431e2d0164
