@@ -1,5 +1,14 @@
 {
-  "version": "1.0.9",
-  "download_url": "https://raw.githubusercontent.com/sametpali/ASPdf-Updates/main/ASPdf_Setup_1.0.6.zip",
-  "patch_url": "https://raw.githubusercontent.com/sametpali/ASPdf-Updates/main/update.zip"
+  "version": "1.0.1",
+  "release_date": "2026-09-15",
+  "min_app_version": "1.0.0",
+  "mandatory": false,
+  "download_url": "https://raw.githubusercontent.com/sametpali/ASPdf-Updates/main/ASPdf_Setup.zip",
+  "patch_url": "https://raw.githubusercontent.com/sametpali/ASPdf-Updates/main/update.zip",
+  "sha256": "54ec790df6a3ab99652e334177f894de498381ddae18ea35b13aa33a8491dfa3",
+  "file_size": 16933094,
+  "changelog": {
+    "tr": "• v1.0.1 Canlı Test Güncellemesi\n• Yeni profesyonel güncelleme motoru devrede!\n• Güvenlik ve performans iyileştirmeleri uygulandı.",
+    "en": "• Bug fixes and performance enhancements."
+  }
 }
